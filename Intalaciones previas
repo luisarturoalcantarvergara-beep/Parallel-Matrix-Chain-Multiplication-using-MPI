@@ -1,0 +1,2 @@
+!apt-get -y install mpich
+!apt-get -y install mpich
